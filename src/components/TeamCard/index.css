@@ -1,0 +1,26 @@
+.team-list-item-container {
+  width: 100%;
+  border: 2px solid #ffffff;
+  background-color: #475569;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 30px;
+}
+.link {
+  text-decoration: none;
+  width: 45%;
+  margin-bottom: 20px;
+}
+.team-img {
+  width: 100px;
+  min-height: 100px;
+  margin-right: 20px;
+}
+.team-name-head {
+  text-align: center;
+  font-family: Bree Serif;
+  color: #ffffff;
+  align-self: center;
+  font-size: 30px;
+}

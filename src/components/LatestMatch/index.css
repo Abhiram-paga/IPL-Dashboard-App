@@ -1,0 +1,45 @@
+.recent-match-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #0f172a;
+  padding: 30px;
+  border-radius: 20px;
+}
+.result-container {
+  align-self: center;
+}
+.competingTeam-para {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
+.date-para {
+  font-family: Bree Serif;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.venue-para {
+  font-family: Bree Serif;
+  color: #ffffff;
+}
+.result-para {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
+.competingTeam-logo {
+  width: 30%;
+}
+.firstInnings-secondInnings-container {
+  align-items: center;
+  text-align: right;
+}
+.headings {
+  color: #ffffff;
+  font-family: Bree Serif;
+  font-size: 20px;
+}
+.values {
+  font-family: Bree Serif;
+  color: #ffffff;
+}
